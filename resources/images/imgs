@@ -1,0 +1,83 @@
+flex-grow or flex-shrink
+
+
+A title and logo or splash image.
+A mission statement or brief description of the company.
+A list or set of images and titles representing the product or products of the company.
+A section describing some of the company’s employees or teammates.
+
+
+Create a centered navbar at the top of the page.
+Create a flexible display of company products that changes from a more grid-like list to a column list as the page shrinks.
+Create a flexible display of company employees.
+
+
+A simple color scheme using CSS named colors, but yours can be more elaborate with hexadecimal, RGB, or HSL colors.
+Google Fonts 
+Unsplash for pictures
+
+
+
+going with a diving excursion buissiness  
+
+<!-- images -->
+
+mask and snorkel USED
+https://plus.unsplash.com/premium_photo-1677636665165-a8bd684e9edf?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+footsteps in the sand
+https://plus.unsplash.com/premium_photo-1674168840647-f2000b1aeedd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDQzfGlVSXNuVnRqQjBZfHxlbnwwfHx8fHw%3D
+
+footsteps in the sand to water
+https://images.unsplash.com/photo-1560111458-eea6c5ea359a?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D 
+
+color building 
+https://plus.unsplash.com/premium_photo-1710278749688-6cd2634f70ef?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+sunset peir 
+https://images.unsplash.com/photo-1650269717276-f3d8910bab5e?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+pretty coral 
+https://images.unsplash.com/photo-1589308945435-38c3f99b3824?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+coral reef half in water
+https://images.unsplash.com/photo-1540202403-b7abd6747a18?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+coral w/ fish 
+https://images.unsplash.com/photo-1582623838120-455da222cdc7?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+coral w/ lots of orange fish USED
+https://plus.unsplash.com/premium_photo-1661841439995-1706237c83dc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+sea turtle USED
+https://images.unsplash.com/photo-1533787896899-91b040188f57?q=80&w=1136&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+boat people 
+https://images.unsplash.com/photo-1565645359224-80b0fb519fbb?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+underwater bubble photos 
+https://images.unsplash.com/photo-1603258664907-caca01e2c111?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+girl snorkeling w/ fish USED
+https://images.unsplash.com/photo-1658298208155-ab71765747a1?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+arial of boats in cove USED
+https://images.unsplash.com/photo-1617727347345-fdd8c918018e?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+marina USED
+https://images.unsplash.com/photo-1646576509196-071cc6799c0a?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+
+
+<!-- logos -->
+
+snorkel mask cool
+https://static.thenounproject.com/png/2344570-84.png
+
+more realistic snorkel mask
+https://static.thenounproject.com/png/5047617-84.png
+
+blue snorkel mask 
+https://cdn-icons-png.flaticon.com/128/478/478646.png
+
+green snorkel mask with bubbles
+https://cdn-icons-png.flaticon.com/128/704/704925.png
