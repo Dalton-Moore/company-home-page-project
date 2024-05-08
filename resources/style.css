@@ -1,22 +1,28 @@
 /******* main *******/
 * {
     font-size: 1rem;
-    margin; 0;
+
+}
+
+body {
+    background-color:   aqua;
+    margin: 0;
+/* text align center */
 }
 
 /* header */
 .header {
     display: inline-flex;
     flex-direction: row;
-    height: 90px;
+    height: 5.625rem;
     background-color: aqua;
     width: 100%;
     align-items: center;
 }
 
 .logo {
-    height: 70px;
-    margin-left: 10px;
+    height: 4.375rem;
+    margin-left: .625rem;
     flex-grow: 1;
 }
 
@@ -42,11 +48,11 @@ nav a:hover {
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
-    width: 1200px;
-    height: 600px;
+    width: 75rem;
+    height: 37.5rem;
     margin: auto auto;
     /* padding-top accounts for header height */
-    padding-top: 90px;
+    padding-top: 5.625rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -59,26 +65,109 @@ nav a:hover {
     display: inline-flex;
     flex-direction: row;
     justify-content: center;
-    margin: 0 360px 0;
-    padding: 10px 10px;
+    margin: 0 22.5rem 0;
+    padding: .625rem .625rem;
 }
 
-/* section */
+/* adventures */
+.snorkeling {
+    background-image: url(https://images.unsplash.com/photo-1560111458-eea6c5ea359a?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D );
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+
 .adventure {
-    width: 1000px;
+    width: 62.5rem;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
 }
 
+.adventure h2 {
+    font-size: 2rem;
+}
+
+.adventure p {
+    font-size: 1.5rem;
+}
+
 .waters {
     display: inline-flex;
     flex-wrap: wrap;
+    flex-direction: wrap;
     justify-content: center;
-    gap: 25px;
+    gap: 1.5625rem;
+    width: 100%;
 }
 
 .waters img {
-    height: 200px;
-    width: 300px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 12.5rem;
+    width: 18.75rem;
+    /* padding: 10px; */
 }
+
+.waters span {
+    padding-left: .3125rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ice {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* team */
+.team-container {
+    background-image: url(https://images.unsplash.com/photo-1603258664907-caca01e2c111?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.team {
+    padding-top: 4.375rem;
+    padding-bottom: .3125rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.teammate {
+    flex-basis: 17.5rem;
+}
+
+.teammate img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 12.5rem;
+    height: auto;
+}
+
+.team-container h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: black;
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding-top: 1rem;
+    padding-right: 1rem;
+}
+
+/* footer */
+.footer {
+    display: inline-flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    padding-left: .3125rem;
+}
+/* if you got this far just call me for an interview. */
